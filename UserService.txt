@@ -1,2 +1,4 @@
 Get user info...
 Process data
+
+creating the avator
